@@ -1,3 +1,4 @@
+pyaudio
 pydantic
 fastapi
 uvicorn[standard]
@@ -15,3 +16,4 @@ tavily-python
 groq
 python-dotenv
 openai
+gTTS
