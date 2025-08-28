@@ -1,0 +1,17 @@
+pydantic
+fastapi
+uvicorn[standard]
+langchain
+langgraph
+langchain-tavily
+langchain-groq
+langchain-community
+httpx
+beautifulsoup4
+playwright
+sentence-transformers
+chromadb
+tavily-python
+groq
+python-dotenv
+openai
